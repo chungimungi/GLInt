@@ -1,0 +1,7 @@
+numpy
+pyarrow
+datasets
+torch
+sentence-transformers
+pylate
+transformers
